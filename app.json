@@ -1,0 +1,10 @@
+{
+  "name": "ReactNativeStarter",
+  "slug": "ReactNativeStarter",
+  "displayName": "ReactNativeStarter",
+  "scheme": "ReactNativeStarter",
+  "platforms": [
+    "ios",
+    "android"
+  ]
+}

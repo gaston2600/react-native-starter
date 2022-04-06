@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": [
+          "./src"
+        ],
+        "alias": {
+          "@assets": "./assets",
+          "@styles": "./src/styles",
+          "@common": "./src/components/common",
+          "@utils": "./src/utils",
+          "@colors": "./src/styles/colors",
+
+          "@actions": "./src/redux/actions"
+        }
+      }
+    ]
+  ]
+}

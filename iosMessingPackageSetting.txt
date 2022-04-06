@@ -1,0 +1,6 @@
+react-native-vector-icons
+react-native-linear-gradient
+@react-native-async-storage/async-storage
+react-native-gesture-handler
+@react-native-community/netinfo
+
